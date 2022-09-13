@@ -120,6 +120,12 @@
       "logo": "elixir.png"
     },
     {
+      "title": "Vertisan",
+      "githubUrl": "https://github.com/VertisanPRO",
+      "inviteCode": "vertisan",
+      "logo": "vertisan.png"
+    },
+    {
       "title": "Ember.js",
       "githubUrl": "https://github.com/emberjs",
       "inviteCode": "zT3asNS",
